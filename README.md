@@ -16,3 +16,4 @@ Updated on refactored code for better modularity
 Updated on simplified complex functions
 Updated on streamlined conditional logic
 Updated on refactored code for better modularity
+Updated on removed deprecated methods
